@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name diydac)(type KiCad)(uri "$(KIPRJMOD)\\diydac.pretty")(options "")(descr ""))
+)

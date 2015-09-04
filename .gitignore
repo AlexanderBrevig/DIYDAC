@@ -1,0 +1,13 @@
+fab/*
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+.dsn
